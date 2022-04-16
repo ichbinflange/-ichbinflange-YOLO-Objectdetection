@@ -276,7 +276,7 @@ def predict(image_file):
 out_scores, out_boxes, out_classes = predict("scene3.jpg")
 
 
-##test images using 10 maximum boes as defined
+##test images using 10 maximum boxes as defined
 ##test for multiple images
 #comment the return value 
 #Images = ['test.jpg','scene2.jpg','scene3.jpg','scene4.jpg','scene5.jpg']
