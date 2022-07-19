@@ -1,2 +1,2 @@
 # -ichbinflange-YOLO-Objectdetection
-YOLO pretrained implementation
+YOLO v3 pretrained implementation
